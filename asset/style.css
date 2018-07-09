@@ -3,3 +3,17 @@
   max-width: 100%;
  height: auto;
 }
+.carousel-indicators li{
+  color:red;
+}
+#testimonials-titulo{
+  text-align: center;
+  padding:15px;  
+}
+#row-imagenes{
+  margin-top:40px;
+  margin-bottom: 30px;
+}
+#formulario{
+  background-color: palevioletred;
+}
