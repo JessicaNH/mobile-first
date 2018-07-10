@@ -15,7 +15,7 @@
   margin-bottom: 30px;
 }
 #formulario{
-  background-color: palevioletred;
+  background-color: salmon;
 }
 .password{
   color: white;
@@ -23,5 +23,11 @@
 }
 .password-t{
   text-align: center;
+  color:white;
+  margin-top:20px;
+  margin-bottom: 40px;
+
+}
+.form-check-label{
   color:white;
 }
